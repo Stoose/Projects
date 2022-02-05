@@ -9,3 +9,5 @@ and utilises Pandas package and Seaborn package.
 
 3. The third project attempts to use Long short-term memory (LSTM) to derive a prediction for the portfolio price. The project required training the model and then applying it on
 our data.
+
+4. The forth project invloves tangling information from social media (in this case Twitter) to gauge the level of enthusiasm people are showing in relation to one of the companies. This is accomplished by applying Natural language processing approach, which converts words into numbers. These numbers are then used to make predictions. This could be a useful tool when making buy/sell decision for a security.
