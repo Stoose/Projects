@@ -1,5 +1,5 @@
 # Projects
-This repository contains the projects I've done for my studies/projects I've done in my free time. Under the folder "Images" you can find the main outputs from the projects. The folder "Notebooks" contain the projects themselves.
+This repository contains the projects I've done for my studies/in my free time. Under the folder "Images" you can find the main outputs from the projects. The folder "Notebooks" contain the projects themselves.
 
 1. The first project concerns Winter and Summer Olympic games. In that project I explore how top countries performed in terms of amount of medals they've won, the amount of medals
 they've won in each individual sport and whether countries performed better in winter in comparison to summer. The majority of the project is concerned with data manipulation 
